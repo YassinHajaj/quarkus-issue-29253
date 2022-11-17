@@ -9,6 +9,8 @@
 * Not working = returns JSON instead of XML
 * Working = returns XML as expected
 
+For the calls, either use the embedded Swagger UI (`/q/swagger-ui`) or the calls hereunder.
+
 ### Not working because annotation on interface 
 
 ```
